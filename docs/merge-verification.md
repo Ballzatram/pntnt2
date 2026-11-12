@@ -1,4 +1,4 @@
-# Merge verification — 2026-11-12
+# Merge verification â€” 2026-11-12
 
 Candidate: https://github.com/Ballzatram/pntnt2/pull/1. Base revision: `554bb4f59a06bbe20d2d4bad805d49a53f7657e4`.
 Machine-readable evidence: [standards evidence](evidence/standards-2026-11-12.json).
